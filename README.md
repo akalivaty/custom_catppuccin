@@ -1,5 +1,5 @@
 # custom_catppuccin
-Custom Oh-My-Posh theme from catppuccin
+Custom Oh-My-Posh theme from catppuccin, showing Python environment.
 
 1. Download flie `custom_catppuccin.omp.json` to `C:\Users\USER_NAME\AppData\Local\Programs\oh-my-posh\themes`.
 2. Open powershell
